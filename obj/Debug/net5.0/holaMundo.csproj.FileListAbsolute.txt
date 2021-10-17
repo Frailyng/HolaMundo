@@ -1,0 +1,16 @@
+C:\Users\a19b88806\Documents\programas c#\holaMundo\bin\Debug\net5.0\holaMundo.exe
+C:\Users\a19b88806\Documents\programas c#\holaMundo\bin\Debug\net5.0\holaMundo.deps.json
+C:\Users\a19b88806\Documents\programas c#\holaMundo\bin\Debug\net5.0\holaMundo.runtimeconfig.json
+C:\Users\a19b88806\Documents\programas c#\holaMundo\bin\Debug\net5.0\holaMundo.runtimeconfig.dev.json
+C:\Users\a19b88806\Documents\programas c#\holaMundo\bin\Debug\net5.0\holaMundo.dll
+C:\Users\a19b88806\Documents\programas c#\holaMundo\bin\Debug\net5.0\ref\holaMundo.dll
+C:\Users\a19b88806\Documents\programas c#\holaMundo\bin\Debug\net5.0\holaMundo.pdb
+C:\Users\a19b88806\Documents\programas c#\holaMundo\obj\Debug\net5.0\holaMundo.csproj.AssemblyReference.cache
+C:\Users\a19b88806\Documents\programas c#\holaMundo\obj\Debug\net5.0\holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a19b88806\Documents\programas c#\holaMundo\obj\Debug\net5.0\holaMundo.AssemblyInfoInputs.cache
+C:\Users\a19b88806\Documents\programas c#\holaMundo\obj\Debug\net5.0\holaMundo.AssemblyInfo.cs
+C:\Users\a19b88806\Documents\programas c#\holaMundo\obj\Debug\net5.0\holaMundo.csproj.CoreCompileInputs.cache
+C:\Users\a19b88806\Documents\programas c#\holaMundo\obj\Debug\net5.0\holaMundo.dll
+C:\Users\a19b88806\Documents\programas c#\holaMundo\obj\Debug\net5.0\ref\holaMundo.dll
+C:\Users\a19b88806\Documents\programas c#\holaMundo\obj\Debug\net5.0\holaMundo.pdb
+C:\Users\a19b88806\Documents\programas c#\holaMundo\obj\Debug\net5.0\holaMundo.genruntimeconfig.cache
